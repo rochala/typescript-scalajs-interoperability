@@ -1,0 +1,7 @@
+.bloop
+.bsp
+.metals
+.vscode
+node_modules/*
+target
+project/target

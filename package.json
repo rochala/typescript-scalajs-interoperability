@@ -1,0 +1,22 @@
+{
+  "name": "typescript-scalajs-interoperability",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rochala/typescript-scalajs-interoperability.git",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "rochala <rochala@tutanota.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@scala-js/vite-plugin-scalajs": "^1.0.0",
+    "@types/p5": "^1.4.3",
+    "p5": "^1.5.0",
+    "paper": "^0.12.17",
+    "typescript": "^4.9.3",
+    "vite": "^4.0.4"
+  }
+}
